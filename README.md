@@ -1,5 +1,5 @@
 # AlertMe-Android app
-We designed the interface of a task reminder app with a new fashion design. AlertME: Tasks & To-Do’s is a location-driven to-do list, which reminds users to complete tasks when they are in an area in which the task has to be completed.
+We designed the interface of a task reminder MOBILE app with a new fashion design. AlertME: Tasks & To-Do’s is a location-driven to-do list, which reminds users to complete tasks when they are in an area in which the task has to be completed.
 
 What is in AlertME?
  Can see the amount of time left in order to complete the next tasks in the home screen
