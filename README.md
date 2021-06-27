@@ -6,4 +6,6 @@ What is in AlertME?
  Overdue tasks are highlighted in the home screen to grab the attention of the user
  Can change the alert mechanisms of next tasks in the homepage without  explicitly going to the settings 
  Can view the task name along with its location in the map
+ 
+ link:  https://docs.google.com/presentation/d/1144_a3veH_Qs7aValP06UKLHlybZdRGPQgsWognze0c/edit?ts=5906874e#slide=id.p45
 
